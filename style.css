@@ -11,12 +11,12 @@ body {
 
 
 h3{
-	width: 200px;
+	width: 600px;
   height: 100px; /* если высота не будет задана явна, она будет равна 100% */
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 10%;
+  left: 16%;
   right: 0;
   margin: auto;
 	
@@ -38,8 +38,8 @@ text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 40px #ff00
 }
 div{
 	position: absolute;
-	top:60%;
-	left: 35%;
+	top:55%;
+	left: 47%;
 	margin: auto;
 	height: 40px;
 
